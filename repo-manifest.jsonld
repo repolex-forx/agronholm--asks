@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/asks/commit/e3f2b097fad33c0063e3461385ceccfdeb8bfd32",
       "git:hexsha": "e3f2b097fad33c0063e3461385ceccfdeb8bfd32",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
